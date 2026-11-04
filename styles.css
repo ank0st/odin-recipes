@@ -1,0 +1,32 @@
+h1,h2,h3,h4{
+    color: #22223b;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #f2e9e4;
+    margin-left: 25px;
+}
+
+p, li {
+    font-family: 'Garamond', serif;
+    color: #4a4e69;
+    font-size: 20px;
+}
+
+p {
+    margin-left: 20px;
+}
+
+li {
+    margin: 10px auto;
+}
+a {
+    font-family: Georgia, serif;
+    font-size: 20px;
+}
+
+.subcategory {
+    margin-left: 16px;
+}
+
